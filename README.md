@@ -1,4 +1,4 @@
-Predicting movie ratings based on movie metadata obtained from IMDb APIs containing social media attributes and poster information.
+Predicting movie ratings based on movie metadata obtained from IMDb APIs containing social media attributes and posters information.
 
 Used Tensor Flow and Neural Network techniques to implement the models.
 
