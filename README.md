@@ -3,6 +3,7 @@ Predicting movie ratings based on movie metadata obtained from IMDb APIs contain
 Used Tensor Flow and Neural Network techniques to implement the models.
 
 
+
 Libraries required:
 1. Keras
 2. Scikit-learn 
