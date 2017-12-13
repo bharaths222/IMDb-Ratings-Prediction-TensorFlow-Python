@@ -295,6 +295,6 @@ in a reasonable amount of time
 ## Future Improvement
 1.I happened to run my models a few times (without poster information, with plot_keywords, and without directors) but still 
 unable to minimize the error, I believe it might be possible with some external data.
-2.Should work more on data preprocessing, feature engineering and adding hyperparameter values.
-3.Should research more about tensor flow and explore neural network techniques.
+2.Working more on data preprocessing, feature engineering and adding hyperparameter values.
+3.Researching and exploring more about Deep Learning and Neural Networks.
 
